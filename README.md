@@ -34,31 +34,29 @@ Follow these steps to set up and work on your project:
 - [done] Add TL as collaborator on Github.
 - [done] Clone your OWN version of Repo. **(Not Lambda's by mistake!)**
 - [done] Create a new Branch locally: `git checkout -b <firstName-lastName>`.
-- [ ] Change directories into `./starwars` (`cd starwars`) and run `npm install` to retrieve all needed dependencies.
-- [ ] Once you have installed the _node_modules_, run `npm start` to get your server up and running.
-- [ ] With the server up and running, open Chrome and head over to `localhost:3000` and view your beautiful app. Maybe it's not _that_ pretty... _yet_, your goal is to ensure this project becomes a thing of beauty.
+- [done] Change directories into `./starwars` (`cd starwars`) and run `npm install` to retrieve all needed dependencies.
+- [done] Once you have installed the _node_modules_, run `npm start` to get your server up and running.
+- [done] With the server up and running, open Chrome and head over to `localhost:3000` and view your beautiful app. Maybe it's not _that_ pretty... _yet_, your goal is to ensure this project becomes a thing of beauty.
 Follow these steps for completing your project.
-- [ ] Implement the project on this Branch, **committing progress & changes often.**
-- [ ] Push commits: `git push origin <firstName-lastName>`.
+- [done] Implement the project on this Branch, **committing progress & changes often.**
+- [done] Push commits: `git push origin <firstName-lastName>`.
 
 Follow these steps for completing your project:
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo).
-- [ ] Add your Project Manager as a Reviewer on the Pull-request.
-- [ ] TL then will count the HW as done by merging the branch back into master.
+- [done] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo).
+- [done] Add your Project Manager as a Reviewer on the Pull-request.
+- [done] TL then will count the HW as done by merging the branch back into master.
 
 ## Minimum Viable Product
 
 Your finished project must include all of the following requirements:
 
-- [ ] Use ONE of the following APIs:
+- [done] Use ONE of the following APIs:
   - [Star Wars API](https://swapi.py4e.com/)
-  - [The Rick and Morty API](https://rickandmortyapi.com/)
-  - [The RESTful Pokémon API](https://pokeapi.co/) (**harder**)
 - [ ] Use the documentation and Google to learn how to fetch characters from your API.
-- [ ] Obtain a list of characters. One or several requests might be needed, depending on the API.
-- [ ] Set the list of characters into state.
-- [ ] Render your characters to the screen:
+- [done] Obtain a list of characters. One or several requests might be needed, depending on the API.
+- [done] Set the list of characters into state.
+- [done] Render your characters to the screen:
   - Build a React component named 'Character' to render an individual character.
   - Map over the list in state, and for each character render a Character to the page.
   - You must display at least one element for each character in the data set.
